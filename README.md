@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ParadoxMoranis/ParadoxMoranis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +19,9 @@ Here are some ideas to get you started:
 [![loading-ag-163](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&width=435&height=28&lines=My+name+is+Moranis)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/ParadoxMoranis?color=%2368945C&label=Follow&logoColor=%2368945C&style=flat-square)](https://github.com/ParadoxMoranis)
-[![Github](https://img.shields.io/github/stars/ParadoxMoranis?color=%2368945C&label=Stars&style=flat-square)](https://github.com/ParadoxMoranis)
+[![Github](https://img.shields.io/github/stars/ParadoxMoranis?color=%2368945C&label=Stars&style=flat-square)](https://github.com/ParadoxMoranis)  
+
+
 My name is Moranis.
 
 I am a college student of BUPT. Like to do golang development, golang is also my main need. At the same time, I am also learning C++ and QT. Python and Java are also languages that I can use proficiently. I like to use ArchLinux on a daily basis. I will always contribute to open source projects. 
