@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 My name is Moranis.
 
-I am a college student of BUPT. Like to do golang development, golang is also my main need. At the same time, I am also learning C++ and QT. Python and Java are also languages that I can use proficiently. I like to use ArchLinux on a daily basis. I will always contribute to open source projects. 
+I am a college student of BLCU. Like to do golang development, golang is also my main need. At the same time, I am also learning C++ and QT. Python and Java are also languages that I can use proficiently. I like to use ArchLinux on a daily basis. I will always contribute to open source projects. 
 
 I hope my country will prosper.
 
